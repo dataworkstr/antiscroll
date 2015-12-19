@@ -1,0 +1,13 @@
+{
+  "name": "antiscroll",
+  "main": "antiscroll.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dataworkstr/antiscroll",
+  "authors": [
+    "oytunyuksel <oytun.yuksel@yellow.com.tr>"
+  ],
+  "keywords": [
+    "antiscroll"
+  ],
+  "license": "MIT"
+}
